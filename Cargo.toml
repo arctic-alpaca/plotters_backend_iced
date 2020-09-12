@@ -1,0 +1,13 @@
+[package]
+name = "plotters_in_iced"
+version = "0.1.0"
+authors = ["arctic-alpaca <67190338+arctic-alpaca@users.noreply.github.com>"]
+edition = "2018"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+
+[dependencies]
+iced = { path = "iced", features = ["canvas"] }
+plotters = {path = "plotters"}
+iced_backend = {path = "iced_backend"}

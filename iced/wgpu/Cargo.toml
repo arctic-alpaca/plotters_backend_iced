@@ -1,0 +1,46 @@
+[package]
+name = "iced_wgpu"
+version = "0.2.2"
+authors = ["Héctor Ramón Jiménez <hector0193@gmail.com>"]
+edition = "2018"
+description = "A wgpu renderer for Iced"
+license = "MIT AND OFL-1.1"
+repository = "https://github.com/hecrj/iced"
+
+[features]
+svg = ["resvg"]
+canvas = ["iced_graphics/canvas"]
+default_system_font = ["iced_graphics/font-source"]
+
+[dependencies]
+wgpu = "0.6"
+wgpu_glyph = "0.10"
+glyph_brush = "0.7"
+zerocopy = "0.3"
+bytemuck = "1.2"
+raw-window-handle = "0.3"
+log = "0.4"
+guillotiere = "0.5"
+futures = "0.3"
+
+[dependencies.iced_native]
+version = "0.2"
+path = "../native"
+
+[dependencies.iced_graphics]
+version = "0.1"
+path = "../graphics"
+features = ["font-fallback", "font-icons"]
+
+[dependencies.image]
+version = "0.23"
+optional = true
+
+[dependencies.resvg]
+version = "0.9"
+features = ["raqote-backend"]
+optional = true
+
+[package.metadata.docs.rs]
+rustdoc-args = ["--cfg", "docsrs"]
+all-features = true

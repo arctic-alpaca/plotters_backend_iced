@@ -1,0 +1,239 @@
+<div class="galleryItem">
+    <a href="https://plotters-rs.github.io/plotters-doc-data/sample.png">
+        <img src="https://plotters-rs.github.io/plotters-doc-data/sample.png" class="galleryItem"></img>
+    </a>
+    <div class="galleryText">
+        Multiple Plot
+        <a href="https://github.com/38/plotters/blob/master/examples/chart.rs">[code]</a>
+    </div>
+</div>
+
+<div class="galleryItem">
+    <a href="https://plotters-rs.github.io/plotters-doc-data/stock.png">
+        <img src="https://plotters-rs.github.io/plotters-doc-data/stock.png" class="galleryItem"></img>
+    </a>
+    <div class="galleryText">
+        Candlestick Plot
+        <a href="https://github.com/38/plotters/blob/master/examples/stock.rs">[code]</a>
+    </div>
+</div>
+
+<div class="galleryItem">
+    <a href="https://plotters-rs.github.io/plotters-doc-data/histogram.png">
+        <img src="https://plotters-rs.github.io/plotters-doc-data/histogram.png" class="galleryItem"></img>
+    </a>
+    <div class="galleryText">
+       Histogram
+        <a href="https://github.com/38/plotters/blob/master/examples/histogram.rs">[code]</a>
+    </div>
+</div>
+
+<div class="galleryItem">
+    <a href="https://plotters-rs.github.io/plotters-doc-data/0.png">
+        <img src="https://plotters-rs.github.io/plotters-doc-data/0.png" class="galleryItem"></img>
+    </a>
+    <div class="galleryText">
+        Simple Chart
+    </div>
+</div>
+
+<div class="galleryItem">
+    <a href="https://plotters-rs.github.io/plotters-doc-data/console-2.png">
+        <img src="https://plotters-rs.github.io/plotters-doc-data/console-2.png" class="galleryItem"></img>
+    </a>
+    <div class="galleryText">
+		Plotting the Console
+    </div>
+</div>
+
+<div class="galleryItem">
+    <a href="https://plotters-rs.github.io/plotters-doc-data/mandelbrot.png">
+        <img src="https://plotters-rs.github.io/plotters-doc-data/mandelbrot.png" class="galleryItem"></img>
+    </a>
+    <div class="galleryText">
+        Mandelbrot set
+        <a href="https://github.com/38/plotters/blob/master/examples/mandelbrot.rs">[code]</a>
+    </div>
+</div>
+
+
+<div class="galleryItem">
+    <a href="https://plotters-rs.github.io/plotters-doc-data/evcxr_animation.gif">
+        <img src="https://plotters-rs.github.io/plotters-doc-data/evcxr_animation.gif" class="galleryItem"></img>
+    </a>
+    <div class="galleryText">
+        Jupyter Support
+    </div>
+</div>
+
+<div class="galleryItem">
+    <a href="https://plotters-rs.github.io/plotters-doc-data/plotters-piston.gif">
+        <img src="https://plotters-rs.github.io/plotters-doc-data/plotters-piston.gif" class="galleryItem"></img>
+    </a>
+    <div class="galleryText">
+		Real-time Rendering
+		<a href="https://github.com/38/plotters/tree/master/examples/piston-demo">[code]</a>
+    </div>
+</div>
+
+<div class="galleryItem">
+    <a href="https://plotters-rs.github.io/plotters-doc-data/normal-dist.png">
+        <img src="https://plotters-rs.github.io/plotters-doc-data/normal-dist.png" class="galleryItem"></img>
+    </a>
+    <div class="galleryText">
+		Histogram with Scatter
+        <a href="https://github.com/38/plotters/blob/master/examples/normal-dist.rs">[code]</a>
+    </div>
+</div>
+
+<div class="galleryItem">
+    <a href="https://plotters-rs.github.io/plotters-doc-data/twoscale.png">
+        <img src="https://plotters-rs.github.io/plotters-doc-data/twoscale.png" class="galleryItem"></img>
+    </a>
+    <div class="galleryText">
+		Dual Y-Axis Example
+        <a href="https://github.com/38/plotters/blob/master/examples/two-scales.rs">[code]</a>
+    </div>
+</div>
+
+<div class="galleryItem">
+    <a href="https://plotters-rs.github.io/plotters-doc-data/matshow.png">
+        <img src="https://plotters-rs.github.io/plotters-doc-data/matshow.png" class="galleryItem"></img>
+    </a>
+    <div class="galleryText">
+		The Matplotlib Matshow Example
+        <a href="https://github.com/38/plotters/blob/master/examples/matshow.rs">[code]</a>
+    </div>
+</div>
+
+<div class="galleryItem">
+    <a href="https://plotters-rs.github.io/plotters-doc-data/sierpinski.png">
+        <img src="https://plotters-rs.github.io/plotters-doc-data/sierpinski.png" class="galleryItem"></img>
+    </a>
+    <div class="galleryText">
+		The Sierpinski Carpet
+        <a href="https://github.com/38/plotters/blob/master/examples/sierpinski.rs">[code]</a>
+    </div>
+</div>
+
+<div class="galleryItem">
+    <a href="https://plotters-rs.github.io/plotters-doc-data/normal-dist2.png">
+        <img src="https://plotters-rs.github.io/plotters-doc-data/normal-dist2.png" class="galleryItem"></img>
+    </a>
+    <div class="galleryText">
+		The 1D Gaussian Distribution
+        <a href="https://github.com/38/plotters/blob/master/examples/nomal-dist2.rs">[code]</a>
+    </div>
+</div>
+
+<div class="galleryItem">
+    <a href="https://plotters-rs.github.io/plotters-doc-data/errorbar.png">
+        <img src="https://plotters-rs.github.io/plotters-doc-data/errorbar.png" class="galleryItem"></img>
+    </a>
+    <div class="galleryText">
+		The 1D Gaussian Distribution
+        <a href="https://github.com/38/plotters/blob/master/examples/errorbar.rs">[code]</a>
+    </div>
+</div>
+
+<div class="galleryItem">
+    <a href="https://plotters-rs.github.io/plotters-doc-data/slc-temp.png">
+        <img src="https://plotters-rs.github.io/plotters-doc-data/slc-temp.png" class="galleryItem"></img>
+    </a>
+    <div class="galleryText">
+		Monthly Time Coordinate
+        <a href="https://github.com/38/plotters/blob/master/examples/slc-temp.rs">[code]</a>
+    </div>
+</div>
+
+<div class="galleryItem">
+    <a href="https://plotters-rs.github.io/plotters-doc-data/area-chart.png">
+        <img src="https://plotters-rs.github.io/plotters-doc-data/area-chart.png" class="galleryItem"></img>
+    </a>
+    <div class="galleryText">
+		Monthly Time Coordinate
+        <a href="https://github.com/38/plotters/blob/master/examples/area-chart.rs">[code]</a>
+    </div>
+</div>
+
+<div class="galleryItem">
+    <a href="https://plotters-rs.github.io/plotters-doc-data/snowflake.png">
+        <img src="https://plotters-rs.github.io/plotters-doc-data/snowflake.png" class="galleryItem"></img>
+    </a>
+    <div class="galleryText">
+		Koch Snowflake
+        <a href="https://github.com/38/plotters/blob/master/examples/snowflake.rs">[code]</a>
+    </div>
+</div>
+
+
+<div class="galleryItem">
+    <a href="https://plotters-rs.github.io/plotters-doc-data/animation.gif">
+        <img src="https://plotters-rs.github.io/plotters-doc-data/animation.gif" class="galleryItem"></img>
+    </a>
+    <div class="galleryText">
+		Koch Snowflake Animation
+        <a href="https://github.com/38/plotters/blob/master/examples/animation.rs">[code]</a>
+    </div>
+</div>
+
+
+<div class="galleryItem">
+    <a href="https://plotters-rs.github.io/plotters-doc-data/console.png">
+        <img src="https://plotters-rs.github.io/plotters-doc-data/console.png" class="galleryItem"></img>
+    </a>
+    <div class="galleryText">
+		Drawing on a Console
+        <a href="https://github.com/38/plotters/blob/master/examples/console.rs">[code]</a>
+    </div>
+</div>
+
+<div class="galleryItem">
+    <a href="https://plotters-rs.github.io/plotters-doc-data/blit-bitmap.png">
+        <img src="https://plotters-rs.github.io/plotters-doc-data/blit-bitmap.png" class="galleryItem"></img>
+    </a>
+    <div class="galleryText">
+		Drawing bitmap on chart
+        <a href="https://github.com/38/plotters/blob/master/examples/blit-bitmap.rs">[code]</a>
+    </div>
+</div>
+
+<div class="galleryItem">
+    <a href="https://plotters-rs.github.io/plotters-doc-data/boxplot.svg">
+        <img src="https://plotters-rs.github.io/plotters-doc-data/boxplot.svg" class="galleryItem"></img>
+    </a>
+    <div class="galleryText">
+		The boxplot demo
+        <a href="https://github.com/38/plotters/blob/master/examples/boxplot.rs">[code]</a>
+    </div>
+</div>
+
+<div class="galleryItem">
+    <a href="https://plotters-rs.github.io/plotters-doc-data/3d-plot.svg">
+        <img src="https://plotters-rs.github.io/plotters-doc-data/3d-plot.svg" class="galleryItem"></img>
+    </a>
+    <div class="galleryText">
+		3D plot rendering
+        <a href="https://github.com/38/plotters/blob/master/examples/3d-plot.rs">[code]</a>
+    </div>
+</div>
+
+<div class="galleryItem">
+    <a href="https://plotters-rs.github.io/plotters-doc-data/3d-plot2.gif">
+        <img src="https://plotters-rs.github.io/plotters-doc-data/3d-plot2.gif" class="galleryItem"></img>
+    </a>
+    <div class="galleryText">
+		2-Var Gussian Distribution PDF
+        <a href="https://github.com/38/plotters/blob/master/examples/3d-plot2.rs">[code]</a>
+    </div>
+</div>
+
+<div class="galleryItem">
+    <a href="https://plotters-rs.github.io/plotters-doc-data/tick_control.svg">
+        <img src="https://plotters-rs.github.io/plotters-doc-data/tick_control.svg" class="galleryItem"></img>
+    </a>
+    <div class="galleryText">
+		COVID-19 Visualization
+        <a href="https://github.com/38/plotters/blob/master/examples/tick_control.rs">[code]</a>
+    </div>
+</div>
